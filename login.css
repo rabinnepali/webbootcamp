@@ -1,0 +1,26 @@
+body{
+    background-color:grey;
+    color: white;
+}
+.loginpage{
+    /* padding-left: 80vh; */
+    text-align: center;
+    
+}
+input{
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+img{
+    padding-left: 525px;
+    height:300px;
+    width: 300px;
+}
+.forgot{
+    margin-bottom: 10px;
+
+}
+button{
+    margin-top: 10px;
+}
